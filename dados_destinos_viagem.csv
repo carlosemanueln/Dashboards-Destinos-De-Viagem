@@ -1,0 +1,501 @@
+origem,destino,companhia,passageiros,preco_medio,data
+Rio de Janeiro,Salvador,LATAM,111,207.62,2024-05-08
+São Paulo,Fortaleza,Passaredo,174,1052.93,2025-02-12
+Rio de Janeiro,Natal,WebJet,84,825.75,2024-05-20
+Porto Alegre,Salvador,WebJet,118,465.74,2024-08-24
+Porto Alegre,Fortaleza,LATAM,120,552.8,2025-03-01
+Curitiba,Florianópolis,WebJet,124,1003.21,2024-07-16
+Belo Horizonte,Salvador,Azul,84,1119.85,2025-01-10
+Rio de Janeiro,Recife,LATAM,122,1374.44,2025-03-15
+Rio de Janeiro,Recife,Gol,128,796.98,2024-07-26
+Curitiba,Fortaleza,LATAM,55,519.19,2024-10-12
+São Paulo,Salvador,Azul,91,814.13,2024-12-20
+Belo Horizonte,Salvador,WebJet,110,1845.82,2024-07-04
+Porto Alegre,Salvador,Gol,84,1605.07,2024-09-27
+São Paulo,Fortaleza,LATAM,183,1981.37,2024-12-12
+São Paulo,Salvador,Azul,199,333.16,2025-01-04
+São Paulo,Recife,LATAM,165,1126.23,2024-09-06
+Belo Horizonte,Fortaleza,Azul,135,1901.94,2025-01-11
+Belo Horizonte,Florianópolis,Gol,131,1211.0,2024-11-29
+Curitiba,Recife,Passaredo,107,191.91,2024-11-21
+Rio de Janeiro,Salvador,LATAM,73,1865.94,2024-07-19
+Porto Alegre,Florianópolis,Gol,102,1339.37,2024-06-09
+Curitiba,Recife,LATAM,93,415.91,2025-01-17
+Rio de Janeiro,Fortaleza,WebJet,134,343.98,2024-06-16
+São Paulo,Natal,WebJet,54,404.49,2024-10-31
+Curitiba,Salvador,WebJet,176,1237.73,2024-11-10
+São Paulo,Salvador,WebJet,150,1053.8,2025-04-13
+Rio de Janeiro,Florianópolis,Azul,141,807.33,2024-10-12
+Curitiba,Recife,Passaredo,84,677.07,2025-03-09
+Curitiba,Natal,Gol,56,1617.73,2024-12-23
+Porto Alegre,Salvador,Gol,129,904.26,2025-03-11
+Rio de Janeiro,Natal,Passaredo,112,956.43,2024-06-27
+Belo Horizonte,Recife,Gol,80,218.74,2024-05-31
+Belo Horizonte,Salvador,WebJet,180,348.63,2024-08-19
+Belo Horizonte,Florianópolis,WebJet,116,1596.95,2024-10-29
+Curitiba,Florianópolis,LATAM,191,1758.06,2024-07-21
+Curitiba,Florianópolis,Gol,194,1240.31,2024-08-30
+Porto Alegre,Florianópolis,Passaredo,170,1738.68,2024-10-19
+São Paulo,Florianópolis,LATAM,126,370.27,2025-03-05
+Porto Alegre,Florianópolis,LATAM,106,1975.25,2025-04-10
+São Paulo,Recife,LATAM,92,1170.23,2025-02-17
+São Paulo,Salvador,Azul,190,1300.69,2024-07-13
+Rio de Janeiro,Salvador,WebJet,152,1140.25,2024-08-03
+Porto Alegre,Florianópolis,Gol,148,620.76,2024-06-20
+Belo Horizonte,Recife,LATAM,113,1314.4,2025-02-26
+São Paulo,Salvador,Gol,167,612.38,2024-06-18
+Curitiba,Recife,LATAM,188,804.94,2025-03-21
+Belo Horizonte,Salvador,LATAM,123,866.63,2025-03-27
+Porto Alegre,Fortaleza,LATAM,141,1872.23,2024-05-07
+Rio de Janeiro,Natal,Gol,175,868.5,2025-02-23
+São Paulo,Salvador,LATAM,109,1982.41,2024-08-04
+Porto Alegre,Florianópolis,LATAM,92,752.47,2024-11-15
+Belo Horizonte,Florianópolis,Gol,122,796.07,2024-11-02
+Belo Horizonte,Salvador,LATAM,133,1037.81,2024-11-09
+Rio de Janeiro,Fortaleza,LATAM,59,988.42,2025-05-01
+Belo Horizonte,Natal,Passaredo,104,417.92,2024-11-08
+Porto Alegre,Recife,LATAM,115,586.79,2024-09-09
+São Paulo,Fortaleza,Gol,144,701.31,2024-06-28
+Porto Alegre,Natal,Gol,173,1147.13,2024-08-23
+Porto Alegre,Florianópolis,Azul,191,1417.13,2025-01-02
+Rio de Janeiro,Recife,WebJet,192,1180.49,2025-02-21
+Belo Horizonte,Recife,Gol,153,853.01,2025-03-12
+Rio de Janeiro,Fortaleza,LATAM,102,1085.37,2025-04-02
+Belo Horizonte,Recife,Passaredo,106,735.19,2025-04-07
+Curitiba,Salvador,Passaredo,52,1597.62,2024-05-23
+Curitiba,Florianópolis,Passaredo,134,1169.71,2024-08-29
+São Paulo,Natal,WebJet,142,536.27,2025-02-26
+Porto Alegre,Salvador,Azul,195,1795.06,2024-10-11
+São Paulo,Florianópolis,Azul,170,1605.17,2024-11-27
+Curitiba,Fortaleza,Passaredo,180,1815.16,2024-07-21
+Belo Horizonte,Natal,WebJet,66,1366.96,2025-01-17
+Porto Alegre,Florianópolis,Gol,170,1319.9,2025-03-26
+Rio de Janeiro,Salvador,Passaredo,66,933.65,2024-11-12
+Curitiba,Fortaleza,Passaredo,115,1188.25,2024-07-13
+São Paulo,Natal,Azul,134,271.55,2024-10-12
+São Paulo,Fortaleza,WebJet,69,204.15,2024-07-07
+Porto Alegre,Natal,Passaredo,78,1068.12,2024-09-30
+Curitiba,Florianópolis,Azul,112,234.03,2024-12-13
+São Paulo,Florianópolis,Passaredo,121,439.25,2024-05-26
+Rio de Janeiro,Recife,WebJet,113,1107.25,2024-11-14
+Rio de Janeiro,Florianópolis,Passaredo,77,517.17,2024-12-10
+Porto Alegre,Natal,LATAM,109,255.23,2024-10-11
+Curitiba,Natal,Gol,55,413.99,2025-02-20
+São Paulo,Recife,WebJet,180,1387.6,2025-04-23
+Curitiba,Recife,Passaredo,178,1437.28,2024-05-31
+Porto Alegre,Florianópolis,WebJet,158,1363.01,2025-04-07
+Porto Alegre,Salvador,Gol,94,183.33,2024-06-20
+Rio de Janeiro,Salvador,Azul,68,1184.62,2024-07-29
+São Paulo,Salvador,Azul,151,301.96,2024-06-11
+Curitiba,Florianópolis,LATAM,112,419.58,2025-01-26
+Porto Alegre,Fortaleza,WebJet,55,823.21,2024-12-26
+São Paulo,Salvador,Passaredo,66,476.89,2024-06-02
+Curitiba,Natal,Azul,156,1424.03,2024-05-27
+Rio de Janeiro,Florianópolis,Azul,53,1691.87,2024-08-31
+Rio de Janeiro,Fortaleza,LATAM,182,1433.07,2024-12-29
+Curitiba,Florianópolis,LATAM,180,936.84,2024-06-16
+Curitiba,Fortaleza,Azul,186,449.86,2024-10-31
+Curitiba,Florianópolis,Gol,97,1846.68,2024-08-05
+São Paulo,Natal,Passaredo,67,886.71,2024-08-01
+Porto Alegre,Fortaleza,Azul,156,286.8,2024-11-29
+Rio de Janeiro,Fortaleza,LATAM,138,1132.83,2025-03-29
+Rio de Janeiro,Fortaleza,WebJet,192,1817.77,2024-10-02
+Belo Horizonte,Fortaleza,Passaredo,129,408.86,2024-08-13
+Curitiba,Salvador,WebJet,74,439.01,2024-07-31
+Porto Alegre,Natal,Azul,114,1829.39,2025-02-27
+Rio de Janeiro,Recife,Passaredo,122,215.74,2024-10-16
+Rio de Janeiro,Recife,Azul,162,567.87,2024-07-25
+Curitiba,Natal,LATAM,145,396.76,2024-06-27
+São Paulo,Natal,Passaredo,84,964.16,2024-08-10
+Rio de Janeiro,Salvador,Azul,194,396.88,2025-04-14
+Rio de Janeiro,Salvador,Azul,130,620.65,2024-08-03
+Belo Horizonte,Natal,Gol,67,1887.0,2025-01-19
+São Paulo,Recife,WebJet,118,706.98,2024-06-18
+Curitiba,Natal,Gol,56,670.38,2025-01-11
+Belo Horizonte,Florianópolis,WebJet,185,612.17,2024-12-15
+Curitiba,Recife,Azul,195,1764.01,2024-06-06
+Rio de Janeiro,Florianópolis,WebJet,101,1475.65,2025-03-26
+São Paulo,Florianópolis,Passaredo,188,1975.07,2025-01-24
+Belo Horizonte,Fortaleza,WebJet,143,536.42,2024-08-31
+Curitiba,Salvador,Gol,197,1278.41,2024-05-10
+Belo Horizonte,Salvador,Gol,192,1571.09,2024-12-14
+Porto Alegre,Florianópolis,Passaredo,141,1070.91,2024-06-17
+Belo Horizonte,Fortaleza,Gol,124,1404.13,2024-12-28
+Rio de Janeiro,Salvador,Azul,87,1482.2,2025-04-14
+Rio de Janeiro,Natal,Azul,105,592.78,2025-04-04
+São Paulo,Florianópolis,LATAM,90,1189.45,2024-06-29
+Porto Alegre,Florianópolis,LATAM,133,411.9,2024-10-19
+Rio de Janeiro,Recife,WebJet,73,1484.72,2024-09-25
+Porto Alegre,Salvador,Azul,71,305.51,2024-10-17
+Rio de Janeiro,Natal,LATAM,78,1457.24,2025-01-14
+Porto Alegre,Natal,Passaredo,57,1787.7,2024-05-27
+Belo Horizonte,Florianópolis,Gol,86,731.26,2024-05-18
+Belo Horizonte,Natal,Azul,83,198.66,2024-08-31
+Porto Alegre,Recife,Azul,165,1272.84,2025-01-14
+Belo Horizonte,Salvador,Passaredo,107,1141.27,2024-06-30
+Porto Alegre,Fortaleza,WebJet,193,1684.65,2024-10-04
+Porto Alegre,Fortaleza,WebJet,196,262.23,2025-01-04
+São Paulo,Fortaleza,Gol,122,1481.49,2025-01-17
+Porto Alegre,Recife,Gol,131,261.27,2024-08-31
+Rio de Janeiro,Fortaleza,Azul,166,534.47,2024-12-04
+Belo Horizonte,Fortaleza,WebJet,81,392.61,2024-06-04
+Belo Horizonte,Fortaleza,Gol,176,537.24,2025-02-01
+Curitiba,Natal,Gol,153,724.33,2024-09-14
+Curitiba,Salvador,Passaredo,110,753.54,2024-06-05
+Curitiba,Salvador,Azul,68,1976.28,2025-02-17
+Belo Horizonte,Salvador,Azul,176,1792.51,2025-03-02
+Porto Alegre,Salvador,Azul,135,1678.79,2025-05-03
+São Paulo,Salvador,Passaredo,186,1822.82,2024-06-10
+São Paulo,Florianópolis,Passaredo,200,1624.32,2025-02-14
+Curitiba,Natal,Azul,117,730.59,2024-06-14
+Rio de Janeiro,Fortaleza,Gol,183,1257.35,2024-09-22
+Rio de Janeiro,Natal,WebJet,180,1394.2,2024-09-16
+Rio de Janeiro,Fortaleza,Azul,79,857.14,2024-09-13
+Curitiba,Florianópolis,Gol,73,1432.31,2024-12-10
+Belo Horizonte,Florianópolis,Passaredo,65,1099.31,2024-11-04
+Curitiba,Recife,LATAM,197,681.06,2024-08-13
+Porto Alegre,Fortaleza,Gol,199,1675.17,2024-07-04
+São Paulo,Fortaleza,LATAM,174,1545.35,2024-06-20
+São Paulo,Natal,LATAM,82,624.15,2024-07-10
+São Paulo,Florianópolis,LATAM,175,1608.33,2024-09-14
+Rio de Janeiro,Natal,LATAM,178,1559.01,2024-11-25
+Porto Alegre,Florianópolis,LATAM,140,550.78,2024-09-14
+São Paulo,Fortaleza,Azul,59,713.8,2024-08-05
+Rio de Janeiro,Florianópolis,LATAM,126,717.39,2024-08-21
+São Paulo,Fortaleza,Azul,198,1052.27,2024-11-05
+Rio de Janeiro,Natal,LATAM,70,1501.14,2024-07-31
+Porto Alegre,Salvador,LATAM,86,1742.86,2024-07-29
+Rio de Janeiro,Florianópolis,WebJet,162,1852.46,2024-10-18
+Curitiba,Florianópolis,WebJet,126,1698.17,2025-04-16
+Belo Horizonte,Natal,LATAM,58,1045.19,2024-09-24
+Curitiba,Fortaleza,LATAM,181,1100.91,2024-06-30
+Belo Horizonte,Recife,Gol,159,285.78,2024-11-04
+Curitiba,Fortaleza,LATAM,192,645.44,2025-02-16
+Curitiba,Florianópolis,Passaredo,91,1006.32,2024-09-13
+Porto Alegre,Florianópolis,Gol,196,520.25,2024-11-02
+Belo Horizonte,Fortaleza,Gol,118,1192.85,2024-08-10
+São Paulo,Recife,Azul,164,1614.99,2024-10-02
+Porto Alegre,Florianópolis,Passaredo,160,385.28,2024-12-06
+Belo Horizonte,Natal,Gol,65,544.52,2025-02-24
+Belo Horizonte,Natal,Passaredo,188,1668.37,2024-06-13
+São Paulo,Natal,LATAM,128,1360.14,2024-11-04
+Belo Horizonte,Natal,Passaredo,103,1281.0,2024-09-21
+Belo Horizonte,Salvador,LATAM,149,1527.52,2025-03-22
+Porto Alegre,Recife,Gol,59,1988.41,2024-10-28
+Rio de Janeiro,Salvador,Azul,151,683.89,2025-02-09
+Rio de Janeiro,Natal,Azul,139,532.35,2024-12-25
+Porto Alegre,Florianópolis,WebJet,144,319.47,2024-09-11
+Curitiba,Florianópolis,Gol,118,493.45,2024-09-12
+Belo Horizonte,Florianópolis,Passaredo,126,1249.86,2025-04-07
+Rio de Janeiro,Salvador,Azul,175,1850.99,2025-03-19
+Porto Alegre,Natal,Gol,83,1962.74,2025-01-07
+Belo Horizonte,Recife,Gol,106,1649.05,2024-11-13
+Rio de Janeiro,Natal,WebJet,66,1014.67,2025-02-15
+São Paulo,Fortaleza,WebJet,154,1565.44,2025-02-17
+Curitiba,Florianópolis,LATAM,102,573.8,2024-11-10
+Rio de Janeiro,Salvador,LATAM,134,418.87,2024-06-16
+Belo Horizonte,Natal,WebJet,162,1283.81,2024-12-15
+São Paulo,Fortaleza,WebJet,100,920.34,2024-12-10
+Curitiba,Natal,Azul,70,1394.06,2025-04-18
+São Paulo,Fortaleza,WebJet,88,509.28,2024-09-10
+Porto Alegre,Florianópolis,Gol,123,1749.64,2024-09-28
+São Paulo,Salvador,Azul,181,1454.78,2025-04-08
+Belo Horizonte,Salvador,LATAM,61,1973.18,2024-12-13
+Belo Horizonte,Recife,Passaredo,90,1768.8,2024-09-26
+São Paulo,Florianópolis,LATAM,84,1114.37,2025-01-25
+Porto Alegre,Natal,LATAM,79,244.87,2025-01-22
+Rio de Janeiro,Florianópolis,Azul,146,1620.72,2024-07-12
+São Paulo,Salvador,Passaredo,91,1333.71,2024-05-11
+Belo Horizonte,Florianópolis,WebJet,152,998.88,2025-01-02
+Porto Alegre,Recife,Gol,100,1968.38,2024-09-30
+Porto Alegre,Salvador,Azul,199,420.17,2024-06-07
+Rio de Janeiro,Salvador,LATAM,77,1395.98,2024-12-11
+Rio de Janeiro,Salvador,LATAM,199,1376.35,2024-06-03
+Belo Horizonte,Salvador,Gol,96,1332.0,2024-12-21
+Rio de Janeiro,Salvador,WebJet,167,844.87,2025-04-27
+Porto Alegre,Fortaleza,WebJet,103,1019.96,2025-01-28
+Belo Horizonte,Salvador,LATAM,156,1233.77,2024-07-13
+Belo Horizonte,Fortaleza,LATAM,111,1438.22,2024-08-30
+Curitiba,Florianópolis,Gol,158,737.59,2025-01-28
+Belo Horizonte,Salvador,WebJet,114,1126.95,2024-11-12
+Belo Horizonte,Salvador,Gol,96,1976.64,2024-11-02
+Curitiba,Florianópolis,LATAM,121,1817.94,2024-12-18
+Belo Horizonte,Fortaleza,LATAM,120,165.05,2024-09-24
+Rio de Janeiro,Fortaleza,Passaredo,177,1865.92,2024-08-21
+Belo Horizonte,Fortaleza,Gol,52,1534.25,2024-10-25
+Rio de Janeiro,Natal,Gol,178,1363.1,2024-05-16
+Belo Horizonte,Natal,Gol,123,659.54,2024-12-31
+São Paulo,Florianópolis,Gol,150,1924.42,2025-02-15
+São Paulo,Salvador,Passaredo,152,669.04,2024-10-25
+Belo Horizonte,Natal,Passaredo,170,970.74,2024-07-19
+Rio de Janeiro,Salvador,LATAM,105,214.29,2025-04-13
+Belo Horizonte,Fortaleza,Azul,52,655.63,2024-08-30
+Porto Alegre,Recife,Azul,70,702.1,2025-02-27
+Belo Horizonte,Recife,Passaredo,128,1763.98,2024-07-08
+Belo Horizonte,Fortaleza,LATAM,176,672.77,2024-10-02
+Curitiba,Recife,Azul,162,609.85,2024-10-10
+Rio de Janeiro,Recife,Azul,164,794.58,2025-04-15
+São Paulo,Florianópolis,Azul,60,816.2,2025-01-31
+Rio de Janeiro,Natal,Gol,61,263.13,2024-06-29
+Rio de Janeiro,Salvador,Azul,117,875.5,2024-05-16
+Belo Horizonte,Fortaleza,Passaredo,92,829.98,2024-12-28
+Belo Horizonte,Natal,Azul,114,1096.39,2025-03-01
+São Paulo,Fortaleza,WebJet,132,1754.89,2024-05-03
+Porto Alegre,Natal,Passaredo,88,578.27,2025-01-18
+São Paulo,Florianópolis,WebJet,70,1333.44,2025-04-26
+Curitiba,Recife,Passaredo,79,1682.18,2024-12-28
+Rio de Janeiro,Fortaleza,Azul,157,1342.5,2024-08-13
+Rio de Janeiro,Natal,Gol,150,1619.06,2024-07-22
+Rio de Janeiro,Natal,LATAM,185,867.87,2024-09-08
+Rio de Janeiro,Salvador,Azul,139,1144.49,2024-09-12
+Curitiba,Salvador,WebJet,71,1386.18,2024-05-24
+Belo Horizonte,Fortaleza,WebJet,167,318.35,2025-04-23
+Porto Alegre,Florianópolis,Azul,158,810.09,2024-09-06
+Curitiba,Natal,WebJet,174,1021.88,2024-05-16
+São Paulo,Florianópolis,LATAM,142,507.25,2024-06-17
+São Paulo,Recife,WebJet,128,1518.92,2024-08-03
+Rio de Janeiro,Florianópolis,WebJet,185,412.4,2024-09-13
+Curitiba,Recife,Gol,123,560.92,2024-10-09
+Belo Horizonte,Salvador,Gol,125,715.17,2025-01-29
+Belo Horizonte,Florianópolis,WebJet,67,875.98,2024-12-31
+Rio de Janeiro,Fortaleza,LATAM,183,994.53,2024-11-19
+Curitiba,Fortaleza,LATAM,145,1439.68,2025-03-10
+São Paulo,Fortaleza,Azul,64,1738.42,2025-03-25
+Curitiba,Natal,LATAM,196,1187.72,2024-06-15
+Curitiba,Salvador,Azul,82,1749.72,2025-03-06
+Porto Alegre,Fortaleza,WebJet,126,256.06,2024-07-30
+Curitiba,Natal,LATAM,68,150.94,2024-10-10
+Rio de Janeiro,Fortaleza,LATAM,186,210.33,2025-04-22
+Rio de Janeiro,Recife,Gol,66,890.29,2024-11-21
+Porto Alegre,Recife,Passaredo,63,477.75,2024-12-05
+Belo Horizonte,Florianópolis,LATAM,81,1134.86,2024-09-02
+São Paulo,Salvador,LATAM,129,732.4,2024-06-23
+Porto Alegre,Fortaleza,Gol,73,1400.33,2024-11-18
+Rio de Janeiro,Recife,LATAM,179,554.69,2024-07-31
+Curitiba,Natal,Azul,74,198.18,2024-12-08
+Rio de Janeiro,Fortaleza,WebJet,181,260.15,2025-03-26
+Belo Horizonte,Recife,WebJet,191,1325.61,2025-02-16
+São Paulo,Recife,LATAM,64,710.7,2024-11-12
+Belo Horizonte,Florianópolis,Passaredo,54,1507.74,2025-03-11
+Rio de Janeiro,Fortaleza,Passaredo,149,247.9,2025-04-23
+Porto Alegre,Fortaleza,WebJet,120,1710.79,2024-11-23
+Curitiba,Recife,Gol,192,1792.54,2024-11-23
+Belo Horizonte,Salvador,Azul,144,419.0,2025-04-09
+Rio de Janeiro,Natal,LATAM,128,1238.98,2025-02-21
+Curitiba,Salvador,Azul,131,1731.98,2024-09-27
+Porto Alegre,Recife,Gol,55,1397.74,2024-09-06
+Belo Horizonte,Natal,Passaredo,182,1824.3,2025-01-02
+Rio de Janeiro,Recife,LATAM,199,1152.99,2025-01-22
+São Paulo,Recife,WebJet,73,959.87,2025-03-22
+Curitiba,Recife,Passaredo,131,876.99,2024-08-15
+Belo Horizonte,Fortaleza,Gol,151,802.19,2025-02-02
+Porto Alegre,Salvador,LATAM,100,388.07,2024-05-22
+Porto Alegre,Florianópolis,LATAM,167,1989.49,2025-01-07
+Rio de Janeiro,Recife,WebJet,120,182.41,2025-04-26
+Curitiba,Natal,Passaredo,104,730.81,2025-01-05
+Belo Horizonte,Florianópolis,LATAM,160,382.36,2024-10-26
+Curitiba,Salvador,Passaredo,87,1504.79,2025-03-18
+Porto Alegre,Recife,LATAM,52,1609.43,2025-04-13
+Rio de Janeiro,Salvador,Passaredo,158,906.4,2024-09-10
+Curitiba,Salvador,WebJet,181,1022.67,2024-05-28
+São Paulo,Florianópolis,WebJet,66,601.45,2024-12-05
+Porto Alegre,Salvador,WebJet,166,869.72,2024-09-27
+Belo Horizonte,Fortaleza,LATAM,110,762.26,2024-06-08
+Belo Horizonte,Natal,LATAM,64,1983.18,2024-11-07
+São Paulo,Fortaleza,Azul,91,1509.06,2025-03-09
+São Paulo,Natal,Passaredo,59,990.5,2024-11-20
+Porto Alegre,Natal,WebJet,164,571.79,2025-01-22
+Curitiba,Natal,WebJet,197,1014.54,2024-06-22
+Porto Alegre,Salvador,WebJet,173,1262.47,2025-01-07
+Curitiba,Florianópolis,Gol,93,717.39,2025-01-27
+Belo Horizonte,Fortaleza,Passaredo,156,872.44,2025-01-23
+Rio de Janeiro,Natal,LATAM,115,700.16,2024-09-25
+Belo Horizonte,Salvador,Passaredo,180,807.07,2024-12-17
+Rio de Janeiro,Salvador,Passaredo,84,404.06,2024-09-03
+Rio de Janeiro,Florianópolis,LATAM,112,345.95,2025-01-11
+Belo Horizonte,Recife,LATAM,86,1260.25,2025-02-12
+São Paulo,Fortaleza,WebJet,119,1022.12,2024-08-20
+São Paulo,Fortaleza,Gol,127,220.03,2024-05-20
+Porto Alegre,Natal,Passaredo,79,1053.74,2025-04-16
+Belo Horizonte,Salvador,Gol,192,457.13,2025-01-09
+São Paulo,Recife,Azul,185,1007.61,2024-08-24
+São Paulo,Florianópolis,LATAM,98,1478.0,2024-05-29
+Curitiba,Fortaleza,WebJet,104,1048.48,2024-05-11
+Curitiba,Florianópolis,Gol,108,234.07,2024-06-30
+Porto Alegre,Natal,WebJet,136,1951.46,2024-08-24
+Rio de Janeiro,Fortaleza,LATAM,128,1877.2,2024-11-26
+Rio de Janeiro,Natal,WebJet,129,1035.24,2025-03-06
+Porto Alegre,Florianópolis,Azul,142,224.49,2024-08-30
+Curitiba,Fortaleza,Gol,62,899.26,2024-06-09
+Curitiba,Natal,Gol,152,1126.69,2025-04-10
+São Paulo,Salvador,Gol,150,1771.25,2024-11-15
+Rio de Janeiro,Salvador,LATAM,99,1862.35,2024-07-04
+Belo Horizonte,Natal,LATAM,69,1744.22,2025-01-09
+Porto Alegre,Salvador,Azul,86,447.22,2024-08-26
+Porto Alegre,Salvador,Gol,142,600.24,2025-04-20
+Belo Horizonte,Natal,WebJet,152,1459.63,2024-11-26
+Belo Horizonte,Natal,Azul,194,1775.27,2024-11-18
+Porto Alegre,Florianópolis,LATAM,138,228.68,2025-01-09
+Belo Horizonte,Recife,WebJet,116,160.85,2025-01-14
+Rio de Janeiro,Florianópolis,Gol,185,1317.16,2025-01-16
+Belo Horizonte,Florianópolis,Gol,80,274.31,2024-12-05
+Curitiba,Natal,Gol,132,1040.36,2024-09-03
+São Paulo,Recife,Gol,78,230.6,2024-12-12
+Porto Alegre,Recife,Gol,113,1808.62,2024-05-04
+Rio de Janeiro,Natal,LATAM,138,1145.37,2024-07-21
+Belo Horizonte,Florianópolis,Gol,163,1477.97,2024-05-14
+Rio de Janeiro,Recife,Azul,178,466.79,2024-09-09
+Porto Alegre,Natal,Passaredo,94,1049.4,2024-05-20
+Porto Alegre,Florianópolis,Passaredo,97,874.9,2025-02-21
+São Paulo,Recife,Azul,109,1147.27,2024-07-19
+Porto Alegre,Florianópolis,Passaredo,77,1612.61,2024-12-26
+Curitiba,Florianópolis,LATAM,151,1524.18,2024-05-16
+Porto Alegre,Salvador,Gol,199,1682.89,2024-12-18
+Porto Alegre,Salvador,LATAM,96,1492.07,2025-02-12
+Rio de Janeiro,Salvador,WebJet,141,599.06,2024-06-10
+Porto Alegre,Natal,WebJet,155,1681.98,2024-12-28
+Rio de Janeiro,Recife,Azul,74,1875.02,2024-05-11
+Rio de Janeiro,Salvador,Passaredo,142,577.93,2024-11-16
+Rio de Janeiro,Natal,LATAM,109,1418.94,2024-10-09
+São Paulo,Fortaleza,Gol,189,240.41,2024-07-22
+Rio de Janeiro,Fortaleza,WebJet,134,175.26,2024-05-26
+Rio de Janeiro,Florianópolis,Azul,154,163.52,2024-09-22
+Curitiba,Fortaleza,Azul,188,1298.86,2024-08-25
+São Paulo,Natal,LATAM,153,1921.76,2024-11-07
+Rio de Janeiro,Florianópolis,Gol,176,379.61,2024-10-14
+São Paulo,Florianópolis,Azul,172,1770.9,2024-06-23
+Curitiba,Salvador,Gol,97,548.54,2024-05-18
+São Paulo,Florianópolis,LATAM,67,1338.4,2024-10-01
+São Paulo,Salvador,WebJet,61,1910.89,2025-01-18
+Rio de Janeiro,Salvador,WebJet,99,633.71,2025-05-02
+Curitiba,Natal,Azul,141,1026.5,2025-01-19
+Porto Alegre,Recife,LATAM,57,192.55,2024-10-24
+Curitiba,Natal,Azul,107,1500.85,2025-02-24
+Rio de Janeiro,Natal,Azul,101,1299.94,2024-08-11
+Curitiba,Recife,Passaredo,79,213.93,2025-02-25
+Curitiba,Recife,Gol,107,304.02,2024-09-30
+Belo Horizonte,Fortaleza,Passaredo,55,277.24,2025-02-17
+São Paulo,Recife,WebJet,56,1501.24,2024-05-18
+Porto Alegre,Fortaleza,Azul,76,1471.18,2025-03-15
+Rio de Janeiro,Fortaleza,Gol,61,1106.04,2025-02-23
+Belo Horizonte,Recife,Gol,93,1232.28,2024-12-23
+São Paulo,Recife,WebJet,114,1558.72,2024-08-25
+Curitiba,Fortaleza,Passaredo,195,281.22,2024-11-12
+Porto Alegre,Natal,Gol,122,1642.0,2025-02-26
+Porto Alegre,Salvador,WebJet,52,1084.21,2024-10-13
+Belo Horizonte,Florianópolis,Azul,158,1342.54,2024-12-02
+Belo Horizonte,Natal,Passaredo,105,1021.13,2024-06-15
+São Paulo,Fortaleza,LATAM,190,1206.46,2025-04-10
+Belo Horizonte,Florianópolis,LATAM,90,1721.56,2024-12-24
+Curitiba,Fortaleza,Azul,92,507.75,2024-05-18
+Curitiba,Fortaleza,Azul,79,1813.56,2025-01-27
+Belo Horizonte,Florianópolis,Azul,125,999.81,2024-09-17
+Rio de Janeiro,Recife,LATAM,117,223.07,2024-12-13
+Belo Horizonte,Natal,Azul,177,1182.4,2024-05-29
+Rio de Janeiro,Florianópolis,Azul,138,166.14,2024-05-18
+Belo Horizonte,Fortaleza,Passaredo,176,696.76,2024-06-19
+Belo Horizonte,Recife,Gol,192,643.45,2024-05-10
+Belo Horizonte,Recife,Azul,132,1081.45,2024-09-04
+Porto Alegre,Salvador,LATAM,74,838.38,2024-07-13
+Curitiba,Florianópolis,Gol,79,877.7,2024-06-22
+Curitiba,Natal,LATAM,63,250.46,2025-04-23
+Belo Horizonte,Fortaleza,Passaredo,197,1335.64,2024-07-20
+Rio de Janeiro,Florianópolis,Azul,145,346.56,2024-07-19
+Belo Horizonte,Natal,Passaredo,187,1890.53,2024-12-03
+Curitiba,Fortaleza,Azul,133,1885.66,2024-06-09
+Rio de Janeiro,Recife,Gol,195,557.99,2024-10-26
+Porto Alegre,Natal,Azul,50,342.96,2024-09-15
+Porto Alegre,Recife,WebJet,65,1469.41,2024-06-27
+Rio de Janeiro,Salvador,Azul,99,425.38,2025-01-20
+Rio de Janeiro,Recife,LATAM,100,821.45,2024-07-12
+Rio de Janeiro,Fortaleza,Passaredo,80,1549.33,2025-03-29
+São Paulo,Natal,Passaredo,111,1207.19,2025-03-08
+Porto Alegre,Natal,Passaredo,171,1272.94,2025-03-26
+Curitiba,Salvador,WebJet,132,977.97,2024-10-23
+Curitiba,Fortaleza,LATAM,154,1250.36,2024-12-02
+Curitiba,Fortaleza,Passaredo,90,595.71,2025-01-06
+Belo Horizonte,Natal,Gol,134,1651.76,2024-10-07
+Rio de Janeiro,Recife,Passaredo,68,1359.73,2024-09-16
+Rio de Janeiro,Natal,Gol,66,851.0,2024-12-20
+São Paulo,Natal,Passaredo,198,1127.67,2024-11-30
+Rio de Janeiro,Salvador,WebJet,71,1537.8,2024-12-30
+Curitiba,Recife,Gol,78,781.92,2025-04-28
+Curitiba,Salvador,LATAM,172,511.23,2024-08-03
+Rio de Janeiro,Salvador,LATAM,199,1405.64,2024-07-22
+Rio de Janeiro,Natal,Gol,176,1145.03,2025-03-08
+São Paulo,Natal,WebJet,172,1202.38,2025-01-02
+Belo Horizonte,Fortaleza,Azul,197,497.75,2024-09-19
+Belo Horizonte,Florianópolis,Passaredo,183,346.29,2024-06-10
+Porto Alegre,Fortaleza,Passaredo,133,152.91,2024-12-09
+Belo Horizonte,Recife,Passaredo,192,1186.49,2025-01-12
+São Paulo,Fortaleza,WebJet,50,314.83,2024-12-16
+Belo Horizonte,Florianópolis,WebJet,143,1411.9,2025-04-04
+Porto Alegre,Florianópolis,Passaredo,153,529.02,2025-04-02
+Belo Horizonte,Natal,Azul,116,293.46,2024-06-29
+São Paulo,Recife,LATAM,138,322.73,2025-04-08
+Belo Horizonte,Florianópolis,WebJet,161,809.53,2025-03-14
+Rio de Janeiro,Fortaleza,Passaredo,68,1103.77,2024-11-02
+São Paulo,Florianópolis,Azul,184,1891.25,2025-03-06
+São Paulo,Salvador,Azul,132,1620.55,2025-03-24
+Belo Horizonte,Fortaleza,LATAM,155,222.39,2024-11-11
+Rio de Janeiro,Natal,Passaredo,55,1496.59,2025-04-01
+Rio de Janeiro,Recife,WebJet,77,1871.36,2025-02-06
+São Paulo,Recife,Gol,51,1011.23,2024-05-14
+Belo Horizonte,Natal,LATAM,81,1793.91,2024-05-18
+São Paulo,Natal,Azul,140,233.75,2024-10-10
+Belo Horizonte,Salvador,LATAM,75,476.3,2024-07-11
+Belo Horizonte,Florianópolis,WebJet,103,1990.43,2024-06-15
+São Paulo,Salvador,Azul,59,349.74,2024-09-07
+Porto Alegre,Natal,LATAM,163,1248.97,2024-06-03
+Belo Horizonte,Recife,Azul,82,344.87,2024-08-21
+São Paulo,Natal,Gol,153,1563.85,2025-03-11
+São Paulo,Salvador,Passaredo,164,1706.51,2024-06-14
+São Paulo,Florianópolis,Azul,192,674.23,2024-09-01
+Belo Horizonte,Salvador,Passaredo,192,954.1,2024-05-24
+Curitiba,Salvador,LATAM,189,1087.15,2025-03-22
+São Paulo,Natal,LATAM,154,1128.2,2024-12-04
+Rio de Janeiro,Natal,Gol,151,1368.91,2025-03-27
+Curitiba,Fortaleza,Gol,93,1318.84,2025-04-16
+Curitiba,Salvador,LATAM,116,818.0,2024-06-27
+Curitiba,Salvador,Azul,167,1754.01,2025-02-17
+Belo Horizonte,Salvador,WebJet,154,732.72,2024-05-09
+São Paulo,Natal,Passaredo,114,628.51,2024-11-03
+Porto Alegre,Salvador,LATAM,178,1915.67,2024-10-29
+Curitiba,Recife,Azul,127,1069.1,2025-04-12
+Curitiba,Fortaleza,WebJet,108,1180.53,2024-08-17
+Curitiba,Recife,LATAM,101,1404.12,2024-08-24
+Porto Alegre,Fortaleza,LATAM,184,227.88,2024-12-12
+Rio de Janeiro,Fortaleza,WebJet,95,1170.25,2024-06-20
+São Paulo,Natal,Gol,68,862.86,2024-05-31
+São Paulo,Natal,Azul,178,306.0,2025-03-23
+Curitiba,Salvador,LATAM,115,837.95,2024-11-27
+Belo Horizonte,Recife,Gol,108,1354.36,2024-07-23
+Rio de Janeiro,Recife,WebJet,147,960.62,2025-02-09
+Belo Horizonte,Salvador,Passaredo,121,1667.9,2024-09-21
+Belo Horizonte,Fortaleza,WebJet,123,412.81,2025-01-19
+Curitiba,Recife,Azul,164,1379.45,2025-03-24
+Curitiba,Natal,Azul,188,798.35,2024-11-01
+São Paulo,Recife,WebJet,151,1782.4,2025-04-22
+Rio de Janeiro,Florianópolis,Passaredo,76,1756.09,2024-09-17
+Rio de Janeiro,Salvador,Gol,84,1198.02,2024-09-29
+Porto Alegre,Recife,Passaredo,148,309.58,2024-06-30
+Belo Horizonte,Salvador,LATAM,128,1141.94,2024-12-12
+Rio de Janeiro,Recife,LATAM,100,520.72,2024-10-05
+Porto Alegre,Fortaleza,LATAM,169,286.74,2025-04-27
+Porto Alegre,Natal,Gol,155,1126.17,2025-02-03
+Rio de Janeiro,Florianópolis,WebJet,90,1642.29,2024-12-07
+São Paulo,Recife,Passaredo,163,1442.61,2024-09-29
+Curitiba,Recife,Azul,149,189.94,2025-02-09
+Rio de Janeiro,Salvador,Passaredo,66,1821.86,2024-08-22
+Curitiba,Recife,Passaredo,185,1845.8,2024-08-23
+São Paulo,Natal,Passaredo,128,1566.44,2024-07-01
+Porto Alegre,Fortaleza,Azul,144,1234.98,2025-03-14
+São Paulo,Fortaleza,Azul,85,1675.87,2025-03-05
+São Paulo,Salvador,Passaredo,161,996.11,2024-09-29
+Porto Alegre,Salvador,WebJet,96,1747.69,2024-08-18
+São Paulo,Natal,WebJet,146,1476.13,2025-01-30
+Porto Alegre,Salvador,Gol,66,773.96,2024-07-10
+Porto Alegre,Recife,Passaredo,140,987.42,2024-12-02
+Rio de Janeiro,Florianópolis,LATAM,186,1437.45,2024-11-04
+São Paulo,Fortaleza,LATAM,61,504.8,2024-07-13
+São Paulo,Fortaleza,Passaredo,179,1584.51,2024-07-21
