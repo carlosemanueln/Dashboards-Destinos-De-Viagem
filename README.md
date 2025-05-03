@@ -10,7 +10,7 @@ O projeto inclui a geração de dados aleatórios, a criação de um DataFrame c
 - **Python**: Linguagem de programação utilizada.
 - **Pandas**: Biblioteca para manipulação de dados.
 - **Random**: Biblioteca para geração de dados aleatórios.
-- **Matplotlib/Seaborn**: Bibliotecas para visualização de dados (caso tenha sido utilizada para gráficos).
+- **Plotly**: Biblioteca para visualização de dados.
 
 ## Etapas do Projeto
 
