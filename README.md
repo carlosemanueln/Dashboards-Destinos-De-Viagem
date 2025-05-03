@@ -26,5 +26,6 @@ Os dados gerados são aleatórios e criados utilizando a biblioteca `random` do 
 
 Dashboard 1: https://github.com/carlosemanueln/Dashboards-Destinos-De-Viagem/blob/main/Gr%C3%A1fico%20de%20barras.png
 
-Dashboard 2:
-Dashboard 3:
+Dashboard 2: https://github.com/carlosemanueln/Dashboards-Destinos-De-Viagem/blob/main/Gr%C3%A1fico%20de%20pizza.png
+
+Dashboard 3: https://github.com/carlosemanueln/Dashboards-Destinos-De-Viagem/blob/main/Gr%C3%A1fico%20interativo.png
