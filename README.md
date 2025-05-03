@@ -23,6 +23,8 @@ O projeto inclui a geração de dados aleatórios, a criação de um DataFrame c
 Os dados gerados são aleatórios e criados utilizando a biblioteca `random` do Python. O objetivo deste projeto não é utilizar dados reais, mas sim criar um conjunto de dados fictícios para análise e visualização.
 
 ## Resultado Visual:
-Dashboard 1: 
+
+Dashboard 1: https://github.com/carlosemanueln/Dashboards-Destinos-De-Viagem/blob/main/Gr%C3%A1fico%20de%20barras.png
+
 Dashboard 2:
 Dashboard 3:
