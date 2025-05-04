@@ -17,7 +17,7 @@ O projeto inclui a geração de dados aleatórios, a criação de um DataFrame c
 1. **Geração dos Dados**: Utilizei a biblioteca `random` para gerar destinos de viagem, avaliações, preços e categorias.
 2. **Criação do DataFrame**: Utilizei o pandas para criar um DataFrame a partir dos dados aleatórios.
 3. **Exportação para CSV**: Os dados foram salvos em um arquivo CSV para uso posterior ou para compartilhamento.
-4. **Análise e Visualização** (se aplicável): Criação de gráficos e visualização das informações contidas no dataset.
+4. **Análise e Visualização**: Criação de gráficos e visualização das informações contidas no dataset.
 
 ## Observação
 Os dados gerados são aleatórios e criados utilizando a biblioteca `random` do Python. O objetivo deste projeto não é utilizar dados reais, mas sim criar um conjunto de dados fictícios para análise e visualização.
