@@ -20,7 +20,9 @@ O projeto inclui a geração de dados aleatórios, a criação de um DataFrame c
 4. **Análise e Visualização**: Criação de gráficos e visualização das informações contidas no dataset.
 
 ## Observação
-Os dados gerados são aleatórios e criados utilizando a biblioteca `random` do Python. O objetivo deste projeto não é utilizar dados reais, mas sim criar um conjunto de dados fictícios para análise e visualização.
+Os dados gerados são foram criados utilizando a biblioteca `random` do Python. O objetivo deste projeto não é utilizar dados reais, mas sim criar um conjunto de dados fictícios para análise e visualização.
+
+Todas as etapas possuem comentários linha por linha explicando a lógica usada.
 
 ## Resultado Visual:
 
@@ -29,3 +31,6 @@ Dashboard 1: https://github.com/carlosemanueln/Dashboards-Destinos-De-Viagem/blo
 Dashboard 2: https://github.com/carlosemanueln/Dashboards-Destinos-De-Viagem/blob/main/Gr%C3%A1fico%20de%20pizza.png
 
 Dashboard 3: https://github.com/carlosemanueln/Dashboards-Destinos-De-Viagem/blob/main/Gr%C3%A1fico%20interativo.png
+
+##📬 Contato
+Dúvidas ou sugestões? Me chame no GitHub:(https://github.com/carlosemanueln)
